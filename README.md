@@ -19,8 +19,6 @@ A full-stack appointment management web application for a medical clinic's front
 Add your screenshots to `docs/screenshots/` and keep these links, or edit the file names to match.
 
 ![Dashboard](docs/screenshots/dashboard.png)
-![Booking form with time slots](docs/screenshots/booking-form.png)
-![Double-booking prevented](docs/screenshots/double-booking.png)
 
 ## Tech stack
 
